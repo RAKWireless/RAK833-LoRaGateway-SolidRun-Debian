@@ -1,7 +1,6 @@
 # RAK833-LoRaGateway-SolidRun-Debian
 
-based on the latest SX1301 driver [lora_gateway](https://github.com/Lora-net/lora_gateway) v5.0.1 and semtech [packet_forwarder](https://github.com/Lora-net/packet_forwarder) v4.0.1  
-
+verified on HummingBoard2 rev 1.4 and MicroSOM rev 1.5
 
 ##	Installation procedure
  
